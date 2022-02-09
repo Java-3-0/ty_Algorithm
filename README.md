@@ -28,7 +28,7 @@ TaeYun Algorithm
     <td><b>check</b></td>
   </tr>
    <tr align="center">
-    <td rowspan="5" >2022.02.10</td>
+    <td rowspan="6" >2022.02.10</td>
     <td align="left">스택_9012_괄호</td>
     <td>양다은</td>
     <td></td>
