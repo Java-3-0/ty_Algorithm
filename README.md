@@ -19,7 +19,7 @@ TaeYun Algorithm
 <table>
   <tr>
     <td colspan="1"><b>2월의 계획</b></td>
-     <td colspan="3">월/ 목 10 pm.~ (주 최소 5문제) </td>
+    <td colspan="3">월/ 목 10 pm.~ (주 최소 5문제) </td>
   </tr>
   <tr align="center">
     <td><b>Date</b></td>
