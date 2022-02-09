@@ -28,35 +28,35 @@ TaeYun Algorithm
     <td><b>check</b></td>
   </tr>
    <tr align="center">
-    <td rowspan="6" >2022.02.10</td>
+    <td rowspan="5" >2022.02.10</td>
     <td align="left">스택_9012_괄호</td>
     <td>양다은</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
     <tr align="center">
     <td align="left">스택_4949_균형잡힌 세상</td>
     <td>박기우</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">스택_1874_스택 수열</td>
     <td>임도영</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">스택_17298_오큰수</td>
     <td>임도영</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">큐_18258_큐 2</td>
-    <td>박선영</td>
-    <td></td>
+    <td>전선영</td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">큐_2164_카드2</td>
     <td>김태윤</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
 </table>
 
