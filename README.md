@@ -64,6 +64,8 @@ TaeYun Algorithm
 ## ❔ 문제 출처
 [Baekjoon](https://www.acmicpc.net/)
 
+## 📝 Notion
+[Notion](https://smooth-fig-7f7.notion.site/2022-04ec1e27409940e5a2cbda4186534077)
 
 * * *
 ###### *PTB(Powers That Be) = 담당자
