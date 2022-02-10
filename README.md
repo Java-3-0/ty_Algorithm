@@ -28,7 +28,7 @@ TaeYun Algorithm
     <td><b>check</b></td>
   </tr>
    <tr align="center">
-    <td rowspan="6" >2022.02.10</td>
+    <td rowspan="8" >2022.02.10</td>
     <td align="left">스택_9012_괄호</td>
     <td>양다은</td>
     <td>⭕️</td>
@@ -55,6 +55,16 @@ TaeYun Algorithm
   </tr>
   <tr align="center">
     <td align="left">큐_2164_카드2</td>
+    <td>김태윤</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">큐_11866_요세푸스_문제_0</td>
+    <td>전선영</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">큐_1966_프린터_큐</td>
     <td>김태윤</td>
     <td>⭕️</td>
   </tr>
