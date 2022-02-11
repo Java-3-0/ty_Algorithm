@@ -72,17 +72,17 @@ TaeYun Algorithm
     <td rowspan="3" >2022.02.14</td>
     <td align="left">2309_일곱_난쟁이</td>
     <td>양다은</td>
-    <td>⭕️</td>
+    <td></td>
   </tr>
   <tr align="center">
     <td align="left">2605_줄_세우기</td>
     <td>박기우</td>
-    <td>⭕️</td>
+    <td></td>
   </tr>
   <tr align="center">
     <td align="left">2477_참외밭</td>
     <td>박영길</td>
-    <td>⭕️</td>
+    <td></td>
   </tr>
 </table>
 
