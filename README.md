@@ -27,13 +27,13 @@ TaeYun Algorithm
     <td><b>PTB</b></td>
     <td><b>check</b></td>
   </tr>
-   <tr align="center">
+  <tr align="center">
     <td rowspan="8" >2022.02.10</td>
     <td align="left">스택_9012_괄호</td>
     <td>양다은</td>
     <td>⭕️</td>
   </tr>
-    <tr align="center">
+  <tr align="center">
     <td align="left">스택_4949_균형잡힌 세상</td>
     <td>박기우</td>
     <td>⭕️</td>
@@ -68,14 +68,32 @@ TaeYun Algorithm
     <td>김태윤</td>
     <td>⭕️</td>
   </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.02.14</td>
+    <td align="left">2309_일곱_난쟁이</td>
+    <td>양다은</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">2605_줄_세우기</td>
+    <td>박기우</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">2477_참외밭</td>
+    <td>박영길</td>
+    <td>⭕️</td>
+  </tr>
 </table>
 
 
 ## ❔ 문제 출처
 [Baekjoon](https://www.acmicpc.net/)
 
+
 ## 📝 Notion
 [Notion](https://smooth-fig-7f7.notion.site/2022-04ec1e27409940e5a2cbda4186534077)
+
 
 * * *
 ###### *PTB(Powers That Be) = 담당자
