@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
+//메모리 : 14296kb
+//시간 : 132ms
 public class study_2월11일_백준_2605_줄_세우기_김태윤 {
 
 	public static void main(String[] args) throws IOException {
