@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+//메모리 : 14152kb
+//시간 : 124ms
 public class study_2월11일_백준_2477_참외밭_김태윤 {
 
 	public static void main(String[] args) throws IOException {
