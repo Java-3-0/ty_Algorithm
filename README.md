@@ -84,6 +84,22 @@ TaeYun Algorithm
     <td>박영길</td>
     <td>⭕️</td>
   </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.02.14(추가)</td>
+    <td align="left">20361_일우는_야바위꾼</td>
+    <td>-</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">20299_3대_측정</td>
+    <td>-</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">20304_비밀번호_제작</td>
+    <td>-</td>
+    <td>❌</td>
+  </tr>
 </table>
 
 
