@@ -5,6 +5,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
+//메모리 : 17648kb
+//시간 : 228ms
 public class study_2월11일_백준_2309_일곱_난쟁이_김태윤 {
 	
 	public static boolean flag = false;
