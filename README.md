@@ -100,12 +100,27 @@ TaeYun Algorithm
     <td>-</td>
     <td>❌</td>
   </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.02.17</td>
+    <td align="left"><a href="https://www.acmicpc.net/problem/2468" target="_blank">2468_안전_영역</a></td>
+    <td>전선영</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left"><a href="https://www.acmicpc.net/problem/2589" target="_blank">2589_보물섬</a></td>
+    <td>김태윤</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left"><a href="https://www.acmicpc.net/problem/10158" target="_blank">10158_개미</a></td>
+    <td>임도영</td>
+    <td></td>
+  </tr>
 </table>
 
 
 ## ❔ 문제 출처
 [Baekjoon](https://www.acmicpc.net/)
-
 
 ## 📝 Notion
 [Notion](https://smooth-fig-7f7.notion.site/2022-04ec1e27409940e5a2cbda4186534077)
