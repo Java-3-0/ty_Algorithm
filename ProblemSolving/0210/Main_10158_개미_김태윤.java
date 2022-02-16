@@ -33,34 +33,6 @@ public class Main_10158_개미_김태윤 {
 			p = w-(p-w);
 		}
 		
-		
-//		int dx = 1;
-//		int dy = 1;
-//		
-//		for(int T = 0; T<t; T++) {
-//			int dp = p+dx;
-//			int dq = q+dy;
-//			
-//			if(dp==w) {
-//				dx = -1;
-//			}else if(dp==0) {
-//				dx = 1;
-//			}
-//			
-//			
-//
-//			if(dq==h) {
-//				dy = -1;
-//			}else if(dq==0) {
-//				dy = 1;
-//			}
-//			
-//			p = dp;
-//			q = dq;
-//
-////			System.out.println(p+" "+q);
-//		}
-		
 		System.out.println(p+" "+q);
 	}
 
