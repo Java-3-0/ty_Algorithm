@@ -86,33 +86,33 @@ TaeYun Algorithm
   </tr>
   <tr align="center">
     <td rowspan="3" >2022.02.14(추가)</td>
-    <td align="left">20361_일우는_야바위꾼</td>
+    <td align="left">🥉3 | 20361_일우는_야바위꾼</td>
     <td>-</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">20299_3대_측정</td>
+    <td align="left">🥉2 | 20299_3대_측정</td>
     <td>-</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">20304_비밀번호_제작</td>
+    <td align="left">🟢5 | 20304_비밀번호_제작</td>
     <td>-</td>
     <td>❌</td>
   </tr>
   <tr align="center">
     <td rowspan="3" >2022.02.17</td>
-    <td align="left"><a href="https://www.acmicpc.net/problem/2468" target="_blank">2468_안전_영역</a></td>
+    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/2468" target="_blank">2468_안전_영역</a></td>
     <td>전선영</td>
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left"><a href="https://www.acmicpc.net/problem/2589" target="_blank">2589_보물섬</a></td>
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2589" target="_blank">2589_보물섬</a></td>
     <td>김태윤</td>
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left"><a href="https://www.acmicpc.net/problem/10158" target="_blank">10158_개미</a></td>
+    <td align="left">🥈4 | <a href="https://www.acmicpc.net/problem/10158" target="_blank">10158_개미</a></td>
     <td>임도영</td>
     <td></td>
   </tr>
