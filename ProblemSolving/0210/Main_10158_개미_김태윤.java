@@ -1,7 +1,8 @@
 package algo_ex;
 
 import java.util.Scanner;
-
+//메모리 : 12892kb
+//시간 : 112ms
 public class Main_10158_개미_김태윤 {
 
 	public static void main(String[] args) {
