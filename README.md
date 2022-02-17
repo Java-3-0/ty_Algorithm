@@ -3,9 +3,9 @@ TaeYun Algorithm
 김태윤의 PS일기
 
 
-## 🍝스파게티 요리사🍝 ~~🤜잡아[3][0] 스터디그룹 🤛~~   
-🖋 목표 1 : 백준 골드 3   
-🖋 목표 2 : 프로그래머스 레벨 3   
+## 🍝스파게티 요리사🍝 ~~(구)🤜잡아[3][0] 스터디그룹 🤛~~   
+🖋 목표 1 : 백준 🥇1   
+🖋 목표 2 : 프로그래머스 레벨 4️⃣
 🖋 목표 3 : SSAFY TEST ALL-PASS   
 🖋 조장 : 🤴임도영    
 🖋 조원 : 👨‍💻박기우 👨‍💻박영길 👩‍💻양다은 👩‍💻전선영 👩‍💻김태윤   
@@ -14,7 +14,8 @@ TaeYun Algorithm
 ## 🗓 일정 
 - 2022.02.07 : 반 재배치 ( 임베디드 21반 ➡ 자바 9반(전공) )
 - 2022.02.08 : 첫 만남
-- 2022.02.10 : 22시~24시 Google Meet 으로 스터디
+- 2022.02.10 : 22시~24시 Google Meet 으로 첫 만남
+- 2022.02.17 : 디스코드 참여
 
 <table>
   <tr>
@@ -29,92 +30,108 @@ TaeYun Algorithm
   </tr>
   <tr align="center">
     <td rowspan="8" >2022.02.10</td>
-    <td align="left">스택_9012_괄호</td>
+    <td align="left">[9012]괄호</td>
     <td>양다은</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">스택_4949_균형잡힌 세상</td>
+    <td align="left">[4949]균형잡힌_세상</td>
     <td>박기우</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">스택_1874_스택 수열</td>
+    <td align="left">[1874]스택_수열</td>
     <td>임도영</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">스택_17298_오큰수</td>
+    <td align="left">[17298]오큰수</td>
     <td>임도영</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">큐_18258_큐 2</td>
+    <td align="left">[18258]큐_2</td>
     <td>전선영</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">큐_2164_카드2</td>
+    <td align="left">[2164]카드2</td>
     <td>김태윤</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">큐_11866_요세푸스_문제_0</td>
+    <td align="left">[11866]요세푸스_문제_0</td>
     <td>전선영</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">큐_1966_프린터_큐</td>
+    <td align="left">[1966]프린터_큐</td>
     <td>김태윤</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
     <td rowspan="3" >2022.02.14</td>
-    <td align="left">2309_일곱_난쟁이</td>
+    <td align="left">[2309]일곱_난쟁이</td>
     <td>양다은</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">2605_줄_세우기</td>
+    <td align="left">[2605]줄_세우기</td>
     <td>박기우</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">2477_참외밭</td>
+    <td align="left">[2477]참외밭</td>
     <td>박영길</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
     <td rowspan="3" >2022.02.14(추가)</td>
-    <td align="left">🥉3 | 20361_일우는_야바위꾼</td>
+    <td align="left">🥉3 | [20361]일우는_야바위꾼</td>
     <td>-</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">🥉2 | 20299_3대_측정</td>
+    <td align="left">🥉2 | [20299]_3대_측정</td>
     <td>-</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">🟢5 | 20304_비밀번호_제작</td>
+    <td align="left">🟢5 | [20304]_비밀번호_제작</td>
     <td>-</td>
     <td>❌</td>
   </tr>
   <tr align="center">
     <td rowspan="3" >2022.02.17</td>
-    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/2468" target="_blank">2468_안전_영역</a></td>
+    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/2468" target="_blank">[2468]안전_영역</a></td>
     <td>전선영</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2589" target="_blank">2589_보물섬</a></td>
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2589" target="_blank">[2589]보물섬</a></td>
     <td>김태윤</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">🥈4 | <a href="https://www.acmicpc.net/problem/10158" target="_blank">10158_개미</a></td>
+    <td align="left">🥈4 | <a href="https://www.acmicpc.net/problem/10158" target="_blank">[10158]개미</a></td>
     <td>임도영</td>
     <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.02.21</td>
+    <td align="left">2️⃣_ | <a href="https://programmers.co.kr/learn/courses/30/lessons/60058?language=java" target="_blank">[2020카카오]괄호 변환</a></td>
+    <td>양다은</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/2304" target="_blank">[2304]창고 다각형</a></td>
+    <td>박기우</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/15650" target="_blank">[15650]N과_M</a></td>
+    <td>박영길</td>
+    <td></td>
   </tr>
 </table>
 
