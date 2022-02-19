@@ -121,17 +121,17 @@ TaeYun Algorithm
     <td rowspan="3" >2022.02.21</td>
     <td align="left">2️⃣_ | <a href="https://programmers.co.kr/learn/courses/30/lessons/60058?language=java" target="_blank">[2020카카오]괄호 변환</a></td>
     <td>양다은</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/2304" target="_blank">[2304]창고 다각형</a></td>
     <td>박기우</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/15650" target="_blank">[15650]N과_M</a></td>
     <td>박영길</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
 </table>
 
