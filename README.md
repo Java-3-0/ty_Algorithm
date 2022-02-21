@@ -133,6 +133,22 @@ TaeYun Algorithm
     <td>박영길</td>
     <td>⭕️</td>
   </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.02.21</td>
+    <td align="left">🥈4 | <a href="https://www.acmicpc.net/problem/10157" target="_blank">[10157]자리배정</a></td>
+    <td>전선영</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/2116" target="_blank">[2116]주사위_쌓기</a></td>
+    <td>김태윤</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/2491" target="_blank">[2491]수열</a></td>
+    <td>임도영</td>
+    <td></td>
+  </tr>
 </table>
 
 
