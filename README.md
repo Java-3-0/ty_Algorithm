@@ -97,7 +97,7 @@ TaeYun Algorithm
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">🟢5 | [20304]_비밀번호_제작</td>
+    <td align="left"> 플 5 | [20304]_비밀번호_제작</td>
     <td>-</td>
     <td>❌</td>
   </tr>
