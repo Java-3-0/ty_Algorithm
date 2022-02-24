@@ -134,7 +134,7 @@ TaeYun Algorithm
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td rowspan="3" >2022.02.21</td>
+    <td rowspan="3" >2022.02.24</td>
     <td align="left">🥈4 | <a href="https://www.acmicpc.net/problem/10157" target="_blank">[10157]자리배정</a></td>
     <td>전선영</td>
     <td>⭕️</td>
