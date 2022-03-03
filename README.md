@@ -149,6 +149,22 @@ TaeYun Algorithm
     <td>임도영</td>
     <td>⭕️</td>
   </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.03.07</td>
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/1593" target="_blank">[1593]문자_해독</a></td>
+    <td>박영길</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/1446" target="_blank">[1446]지름길</a></td>
+    <td>박기우</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/4485" target="_blank">[4485]녹색_옷_입은_애가_젤다지?</a></td>
+    <td>양다은</td>
+    <td></td>
+  </tr>
 </table>
 
 
