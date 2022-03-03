@@ -3,7 +3,7 @@ TaeYun Algorithm
 김태윤의 PS일기
 
 
-## 🍝스파게티 요리사🍝 ~~(구)🤜잡아[3][0] 스터디그룹 🤛~~   
+## 🍝스파게티 요리사🍝  
 🖋 목표 1 : 백준 🥇1   
 🖋 목표 2 : 프로그래머스 레벨 4️⃣
 🖋 목표 3 : SSAFY TEST ALL-PASS   
@@ -97,7 +97,7 @@ TaeYun Algorithm
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left"> 플 5 | [20304]_비밀번호_제작</td>
+    <td align="left"> 🧼5 | [20304]_비밀번호_제작</td>
     <td>-</td>
     <td>❌</td>
   </tr>
@@ -119,7 +119,7 @@ TaeYun Algorithm
   </tr>
   <tr align="center">
     <td rowspan="3" >2022.02.21</td>
-    <td align="left">2️⃣_ | <a href="https://programmers.co.kr/learn/courses/30/lessons/60058?language=java" target="_blank">[2020카카오]괄호 변환</a></td>
+    <td align="left">2️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/60058?language=java" target="_blank">[2020카카오]괄호 변환</a></td>
     <td>양다은</td>
     <td>⭕️</td>
   </tr>
