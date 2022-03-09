@@ -172,12 +172,12 @@ TaeYun Algorithm
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1774" target="_blank">[1774]우주신과의_교감</a></td>
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1774" target="_blank">[1774]우주신과의 교감</a></td>
     <td>임도영</td>
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left">2️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/92335" target="_blank">[2022카카오]k진수에서_소수_개수_구하기</a></td>
+    <td align="left">2️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/92335" target="_blank">[2022카카오]k진수에서 소수 개수 구하기</a></td>
     <td>김태윤</td>
     <td></td>
   </tr>
