@@ -169,16 +169,32 @@ TaeYun Algorithm
     <td rowspan="3" >2022.03.10</td>
     <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1238" target="_blank">[1238]파티</a></td>
     <td>전선영</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1774" target="_blank">[1774]우주신과의 교감</a></td>
     <td>임도영</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">2️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/92335" target="_blank">[2022카카오]k진수에서 소수 개수 구하기</a></td>
     <td>김태윤</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.03.14</td>
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/14890">[14890]경사로</a></td>
+    <td>양다은</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/11404">[11404]플로이드</a></td>
+    <td>박영길</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/17281">[17281]⚾</a></td>
+    <td>박기우</td>
     <td></td>
   </tr>
 </table>
