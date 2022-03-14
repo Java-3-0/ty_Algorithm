@@ -186,17 +186,17 @@ TaeYun Algorithm
     <td rowspan="3" >2022.03.14</td>
     <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/14890">[14890]경사로</a></td>
     <td>양다은</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/11404">[11404]플로이드</a></td>
     <td>박영길</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/17281">[17281]⚾</a></td>
     <td>박기우</td>
-    <td></td>
+    <td>❌</td>
   </tr>
 </table>
 
