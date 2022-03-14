@@ -198,6 +198,17 @@ TaeYun Algorithm
     <td>박기우</td>
     <td>❌</td>
   </tr>
+  <tr align="center">
+    <td rowspan="2" >2022.03.17</td>
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/17471">[17471]게리맨더링</a></td>
+    <td>임도영</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/20055">[20055]컨베이어 벨트 위의 로봇</a></td>
+    <td>김태윤</td>
+    <td></td>
+  </tr>
 </table>
 
 
