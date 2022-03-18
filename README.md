@@ -209,6 +209,22 @@ TaeYun Algorithm
     <td>김태윤</td>
     <td>⭕️</td>
   </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.03.22</td>
+    <td align="left">🥇2 | <a href="https://www.acmicpc.net/problem/4195">[4195]친구 네트워크</a></td>
+    <td>양다은</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/1541">[1541]잃어버린 괄호</a></td>
+    <td>박영길</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/17952">[17952]과제는 끝나지 않아!</a></td>
+    <td>박기우</td>
+    <td></td>
+  </tr>
 </table>
 
 
