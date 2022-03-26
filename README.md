@@ -229,11 +229,27 @@ TaeYun Algorithm
     <td rowspan="2" >2022.03.17</td>
     <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/11657">[11657]타임머신</a></td>
     <td>전선영</td>
-    <td></td>
+    <td>❌</td>
   </tr>
   <tr align="center">
     <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/17142">[17142]연구소 3</a></td>
     <td>김태윤</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.03.22</td>
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/16235">[16235]나무 재테크</a></td>
+    <td>양다은</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1941">[1941]소문난 칠공주</a></td>
+    <td>박영길</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈5 | <a href="https://www.acmicpc.net/problem/2508">[2508]사탕 박사 고창영</a></td>
+    <td>박기우</td>
     <td>⭕️</td>
   </tr>
 </table>
