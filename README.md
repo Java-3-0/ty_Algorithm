@@ -260,7 +260,7 @@ TaeYun Algorithm
   <tr align="center">
     <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2011">[2011]암호코드</a></td>
     <td>전선영</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
 </table>
 
