@@ -262,6 +262,22 @@ TaeYun Algorithm
     <td>전선영</td>
     <td>⭕️</td>
   </tr>
+    <tr align="center">
+    <td rowspan="3" >2022.04.04</td>
+    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/1149">[1149]RGB거리</a></td>
+    <td>양다은</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/2156">[2156]포도주 시식</a></td>
+    <td>박영길</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/11048">[11048]이동하기</a></td>
+    <td>김태윤</td>
+    <td></td>
+  </tr>
 </table>
 
 
