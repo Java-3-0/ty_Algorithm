@@ -278,6 +278,17 @@ TaeYun Algorithm
     <td>김태윤</td>
     <td>⭕️</td>
   </tr>
+  <tr align="center">
+    <td rowspan="2" >2022.04.07</td>
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2565">[2565]전깃줄</a></td>
+    <td>전선영</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/17404">[17404]RGB거리 2</a></td>
+    <td>임도영</td>
+    <td></td>
+  </tr>
 </table>
 
 
