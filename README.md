@@ -289,6 +289,32 @@ TaeYun Algorithm
     <td>임도영</td>
     <td></td>
   </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.04.11</td>
+    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/10844">[10844]쉬운 계단 수</a></td>
+    <td>양다은</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/17404">[11066]파일 합치기</a></td>
+    <td>박영길</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">4️⃣4️ | <a href="https://programmers.co.kr/learn/courses/30/lessons/42897">[프로그래머스]도둑질</a></td>
+    <td>김태윤</td>
+    <td>⭕️</td>
+  </tr>
+   <tr align="center">
+    <td rowspan="2" >2022.04.14</td>
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2110">[2110]공유기 설치</a></td>
+    <td>전선영</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇1 | <a href="https://www.acmicpc.net/problem/1700">[1700]멀티탭 스케줄링</a></td>
+    <td>임도영</td>
+    <td></td>
 </table>
 
 
