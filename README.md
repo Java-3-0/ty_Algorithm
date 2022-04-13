@@ -301,7 +301,7 @@ TaeYun Algorithm
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left">4️⃣4️ | <a href="https://programmers.co.kr/learn/courses/30/lessons/42897">[프로그래머스]도둑질</a></td>
+    <td align="left">4️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/42897">[프로그래머스]도둑질</a></td>
     <td>김태윤</td>
     <td>⭕️</td>
   </tr>
