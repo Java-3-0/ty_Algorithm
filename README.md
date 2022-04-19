@@ -309,17 +309,17 @@ TaeYun Algorithm
     <td rowspan="2" >2022.04.14</td>
     <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2110">[2110]공유기 설치</a></td>
     <td>전선영</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥇1 | <a href="https://www.acmicpc.net/problem/1700">[1700]멀티탭 스케줄링</a></td>
     <td>임도영</td>
-    <td></td>
+    <td>⭕️</td>
   <tr align="center">
     <td rowspan="3" >2022.04.18</td>
     <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/1713">[1713]후보 추천하기</a></td>
     <td>양다은</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥇1 | <a href="https://www.acmicpc.net/problem/21611">[21611]마법사 상어와 블리자드</a></td>
@@ -329,8 +329,18 @@ TaeYun Algorithm
   <tr align="center">
     <td align="left">🥇1 | <a href="https://www.acmicpc.net/problem/1700">[1700]멀티탭 스케줄링</a></td>
     <td>박영길</td>
+    <td>⭕️</td>
+  </tr>
+   <tr align="center">
+    <td rowspan="2" >2022.04.21</td>
+    <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/9657">[9657]돌 게임 3</a></td>
+    <td>임도영</td>
     <td></td>
   </tr>
+  <tr align="center">
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/12904">[12904]A와 B</a></td>
+    <td>박영길</td>
+    <td></td>
 </table>
 
 
