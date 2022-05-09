@@ -341,6 +341,30 @@ TaeYun Algorithm
     <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/12904">[12904]A와 B</a></td>
     <td>박영길</td>
     <td></td>
+   <tr align="center">
+    <td rowspan="2" >2022.04.28</td>
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/2629">[2629]양팔저울</a></td>
+    <td>김태윤</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2467">[2467]용액</a></td>
+    <td>전선영</td>
+    <td></td>
+   <tr align="center">
+    <td rowspan="3" >2022.05.09</td>
+    <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/14425">[14425]문자열 집합</a></td>
+    <td>박영길</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/20921">[20921]그렇고 그런 사이</a></td>
+    <td>임도영</td>
+    <td></td>
+     <tr align="center">
+    <td align="left">2️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">[프로그래머스]없어진 기록 찾기</a></td>
+    <td>양다은</td>
+    <td></td>
 </table>
 
 
