@@ -365,6 +365,16 @@ TaeYun Algorithm
     <td align="left">3️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">[프로그래머스]없어진 기록 찾기</a></td>
     <td>양다은</td>
     <td>⭕️</td>
+  <tr align="center">
+    <td rowspan="2" >2022.04.28</td>
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/17070">[17070]파이프 옮기기 1</a></td>
+    <td>김태윤</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇2 | <a href="https://www.acmicpc.net/problem/16724">[16724]피리 부는 사나이</a></td>
+    <td>전선영</td>
+  <td></td>
 </table>
 
 
