@@ -374,7 +374,35 @@ TaeYun Algorithm
   <tr align="center">
     <td align="left">🥇2 | <a href="https://www.acmicpc.net/problem/16724">[16724]피리 부는 사나이</a></td>
     <td>전선영</td>
-  <td></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.05.2</td>
+    <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/14425">[14425]문자열 집합</a></td>
+    <td>박영길</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">3️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">[프로그래머스]없어진 기록 찾기</a></td>
+    <td>양다은</td>
+    <td>⭕️</td>
+  </tr>
+   <tr align="center">
+    <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/20921">[20921]그렇고 그런 사이</a></td>
+    <td>임도영</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td rowspan="2" >2022.05.30</td>
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/2206">[2206]벽 부수고 이동하기</a></td>
+    <td>김태윤</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1644">[1644]소수의 연속합</a></td>
+    <td>전선영</td>
+    <td>⭕️</td>
+  </tr>
 </table>
 
 
