@@ -3,12 +3,12 @@ TaeYun Algorithm
 김태윤의 PS일기
 
 
-## 🍝스파게티 요리사🍝  
+## 🍝스파게티 요리사🍝 ▶ 공부좀해~
 🖋 목표 1 : 백준 🥇1   
 🖋 목표 2 : 프로그래머스 레벨 4️⃣   
 🖋 목표 3 : SSAFY TEST ALL-PASS   
 🖋 조장 : 🤴임도영    
-🖋 조원 : 👨‍💻박기우 👨‍💻박영길 👩‍💻양다은 👩‍💻전선영 👩‍💻김태윤   
+🖋 조원 : 👨‍💻박기우 👨‍💻박영길 👩‍💻양다은 👩‍💻전선영 👩‍💻김태윤 👩‍💻조민제 
 
 
 ## 🗓 일정 
@@ -17,6 +17,9 @@ TaeYun Algorithm
 - 2022.02.10 : 22시~24시 Google Meet 으로 첫 만남
 - 2022.02.17 : 디스코드 참여
 - 2022.02.28 : 첫 오프라인 전원 만남
+- 2022.06.02 : 조원 [조민제] 합류
+- 2022.06.07 : CS 시작
+
 
 <table>
   <tr>
@@ -403,11 +406,40 @@ TaeYun Algorithm
     <td>전선영</td>
     <td>⭕️</td>
   </tr>
+  <tr align="center">
+    <td rowspan="2" >2022.06.02</td>
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/9019">[9019]DSLR</a></td>
+    <td>박영길</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2170">[2170]선 긋기</a></td>
+    <td>임도영</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td rowspan="3" >2022.06.07</td>
+    <td align="left">🥇1 | <a href="https://www.acmicpc.net/problem/9328">[9328]열쇠</a></td>
+    <td>김태윤</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/1806">[1806]부분합</a></td>
+    <td>전선영</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">💻 | [CS] 디자인패턴(1.1.1 ~ 1.1.5)</a></td>
+    <td>ALL</td>
+    <td></td>
+  </tr>
 </table>
 
 
 ## ❔ 문제 출처
 [Baekjoon](https://www.acmicpc.net/)
+
+[[CS]면접을 위한 CS 전공지식 노트(주홍철/길벗)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165219529)
 
 ## 📝 Notion
 [Notion](https://smooth-fig-7f7.notion.site/2022-04ec1e27409940e5a2cbda4186534077)
