@@ -421,7 +421,7 @@ TaeYun Algorithm
     <td rowspan="3" >2022.06.07</td>
     <td align="left">🥇1 | <a href="https://www.acmicpc.net/problem/9328">[9328]열쇠</a></td>
     <td>김태윤</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/1806">[1806]부분합</a></td>
@@ -431,6 +431,27 @@ TaeYun Algorithm
   <tr align="center">
     <td align="left">💻 | [CS] 디자인패턴(1.1.1 ~ 1.1.5)</a></td>
     <td>ALL</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td rowspan="4" >2022.06.13</td>
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/9466">[9466]텀 프로젝트</a></td>
+    <td>임도영</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥈1 | <a href="https://www.acmicpc.net/problem/9465">[9465]스티커</a></td>
+    <td>박영길</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/5430">[5430]AC</a></td>
+    <td>조민제</td>
+    <td>⭕️</td>
+  </tr>
+  <tr align="center">
+    <td align="left">💻 | [CS] 디자인패턴(1.1.6 ~ 1.1.10)</a></td>
+    <td>ALL</td>
     <td></td>
   </tr>
 </table>
@@ -438,7 +459,6 @@ TaeYun Algorithm
 
 ## ❔ 문제 출처
 [Baekjoon](https://www.acmicpc.net/)
-
 [[CS]면접을 위한 CS 전공지식 노트(주홍철/길벗)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165219529)
 
 ## 📝 Notion
