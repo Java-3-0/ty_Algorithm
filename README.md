@@ -258,7 +258,7 @@ TaeYun Algorithm
   <tr align="center">
     <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/9935">[9935]문자열 폭발</a></td>
     <td>임도영</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/2011">[2011]암호코드</a></td>
@@ -343,7 +343,7 @@ TaeYun Algorithm
   <tr align="center">
     <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/12904">[12904]A와 B</a></td>
     <td>박영길</td>
-    <td></td>
+    <td>⭕️</td>
    <tr align="center">
     <td rowspan="2" >2022.04.28</td>
     <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/2629">[2629]양팔저울</a></td>
@@ -355,7 +355,7 @@ TaeYun Algorithm
     <td>전선영</td>
     <td></td>
    <tr align="center">
-    <td rowspan="3" >2022.05.09</td>
+    <td rowspan="3" >2022.05.02</td>
     <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/14425">[14425]문자열 집합</a></td>
     <td>박영길</td>
     <td>⭕️</td>
@@ -364,37 +364,40 @@ TaeYun Algorithm
     <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/20921">[20921]그렇고 그런 사이</a></td>
     <td>임도영</td>
     <td>⭕️</td>
-     <tr align="center">
+  <tr align="center">
     <td align="left">3️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">[프로그래머스]없어진 기록 찾기</a></td>
     <td>양다은</td>
     <td>⭕️</td>
+    
   <tr align="center">
-    <td rowspan="2" >2022.04.28</td>
+    <td rowspan="2" >2022.05.09</td>
     <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/17070">[17070]파이프 옮기기 1</a></td>
     <td>김태윤</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
   <tr align="center">
     <td align="left">🥇2 | <a href="https://www.acmicpc.net/problem/16724">[16724]피리 부는 사나이</a></td>
     <td>전선영</td>
-    <td></td>
+    <td>⭕️</td>
   </tr>
-  <tr align="center">
-    <td rowspan="3" >2022.05.2</td>
-    <td align="left">🥈3 | <a href="https://www.acmicpc.net/problem/14425">[14425]문자열 집합</a></td>
+
+   <tr align="center">
+    <td rowspan="3" >2022.05.16</td>
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/1956">[1956]운동</a></td>
     <td>박영길</td>
     <td>⭕️</td>
   </tr>
   <tr align="center">
-    <td align="left">3️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/59042">[프로그래머스]없어진 기록 찾기</a></td>
-    <td>양다은</td>
-    <td>⭕️</td>
-  </tr>
-   <tr align="center">
-    <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/20921">[20921]그렇고 그런 사이</a></td>
+    <td align="left">🥈4 | <a href="https://www.acmicpc.net/problem/16471">[16471]작은 수 내기</a></td>
     <td>임도영</td>
     <td>⭕️</td>
   </tr>
+  <tr align="center">
+    <td align="left">4️⃣ | <a href="https://programmers.co.kr/learn/courses/30/lessons/62284">[프로그래머스]우유와 요거트가 담긴 장바구니</a></td>
+    <td>양다은</td>
+    <td>⭕️</td>
+  </tr>
+  
   <tr align="center">
     <td rowspan="2" >2022.05.30</td>
     <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/2206">[2206]벽 부수고 이동하기</a></td>
@@ -406,6 +409,7 @@ TaeYun Algorithm
     <td>전선영</td>
     <td>⭕️</td>
   </tr>
+  
   <tr align="center">
     <td rowspan="2" >2022.06.02</td>
     <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/9019">[9019]DSLR</a></td>
@@ -417,6 +421,7 @@ TaeYun Algorithm
     <td>임도영</td>
     <td>⭕️</td>
   </tr>
+  
   <tr align="center">
     <td rowspan="3" >2022.06.07</td>
     <td align="left">🥇1 | <a href="https://www.acmicpc.net/problem/9328">[9328]열쇠</a></td>
@@ -433,6 +438,7 @@ TaeYun Algorithm
     <td>ALL</td>
     <td>⭕️</td>
   </tr>
+  
   <tr align="center">
     <td rowspan="4" >2022.06.13</td>
     <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/9466">[9466]텀 프로젝트</a></td>
